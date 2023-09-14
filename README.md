@@ -1,1 +1,13 @@
-# Learn-Html-in-10-Days
+# Learn Html in 10 days
+| Lesson  | 📚 Topic                              | 📝 Subtopics                                                                                      |
+| ------- | ---------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Lesson 1 | 🌐 Introduction to HTML              | - 🤔 What is HTML<br>- 🛠️ Setting up your development environment<br>- 📄 Creating your first HTML document<br>- 🏗️ Basic HTML structure             |
+| Lesson 2 | 📝 Text Formatting with HTML         | - 📝 Working with headings and paragraphs<br>- ✨ Applying text formatting tags (e.g., bold, italic, underline)<br>- 🌟 Using line breaks and horizontal rules<br>- 💬 Adding HTML comments |
+| Lesson 3 | 🔗 Working with Links                | - 🔗 Creating hyperlinks<br>- 🔗 Linking to other web pages<br>- ✉️ Linking to email addresses<br>- 📂 Linking to various types of files and documents               |
+| Lesson 4 | 📋 Lists and Tables                  | - 📋 Creating ordered and unordered lists<br>- 📊 Nesting lists for hierarchy<br>- 📈 Constructing tables and formatting them using attributes                   |
+| Lesson 5 | 📝 Forms and User Input              | - 📝 Designing and building forms<br>- 📥 Implementing text input fields<br>- ☑️ Utilizing radio buttons and checkboxes<br>- 📝 Creating dropdown menus and textareas<br>- 🔄 Handling form submission and processing |
+| Lesson 6 | 🖼️ Images and Multimedia             | - 🖼️ Embedding images into web pages<br>- 🎨 Managing image attributes and adhering to best practices<br>- 🎵 Integrating audio and video content<br>- 🔊 Ensuring accessibility for multimedia elements |
+| Lesson 7 | 🧩 Semantic HTML                     | - 🧩 Understanding semantic HTML elements<br>- 📰 Implementing header, nav, section, article, and footer tags<br>- 🔍 Enhancing accessibility and SEO through semantic markup |
+| Lesson 8 | 🆕 HTML5 and Modern Features         | - 🆕 Introducing HTML5 features<br>- 🌐 Exploring new HTML5 elements like canvas and video<br>- 🌍 Utilizing geolocation and local storage for modern web applications |
+| Lesson 9 | 🎨 HTML Forms and CSS                | - 🎨 Styling forms with CSS<br>- 📱 Creating responsive forms that adapt to various screen sizes<br>- 🎨 Learning CSS basics for enhancing HTML page styling   |
+| Lesson 10 | 🏗️ Project and Wrap-Up             | - 🏗️ Building a simple web page as a practical project<br>- 🎨 Integrating HTML and CSS for effective design<br>- 🎉 Presenting the final project<br>- 📚 Providing additional learning resources and tips |
