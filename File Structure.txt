@@ -1,0 +1,316 @@
+LEARN HTML BOOT IN 10 DAYS
+
+Lesson1	-    Introduction to HTML
+	- ElementA - What is HTML
+		- elementB - Explanation of concept     - Introduction to HTML
+		- elementC - Example of concept		- HTML
+		- elementD - Where it is used		- Applications of HTML
+		- elementE - sample code		- HTML
+		- elementF - image			- relevant images of HTML
+		- elementG - summary			- na
+		- elementH - interview questions	- knowledge check about the HTML
+	- ElementA - concept2 - Setting up your development environment
+		- elementB - Explanation of concept     - Introduction to Setting up your development environment
+		- elementC - Example of concept		- Setting up your development environment
+		- elementD - Where it is used		- Applications Setting up your development environment
+		- elementE - sample code		- codesn Setting up your development environment
+		- elementF - image			- relevant images of Setting up your development environment
+		- elementG - summary			- summary of Setting up your development environment
+		- elementH - interview questions	- knowledge check about the Setting up your development environment
+	- ElementA - concept3 	- Creating your first HTML document
+		- elementB - Explanation of concept     - Creating your first HTML document
+		- elementC - Example of concept		- Creating your first HTML document
+		- elementD - Where it is used		- Applications of Creating your first HTML document
+		- elementE - sample code		- code for SCreating your first HTML document
+		- elementF - image			- na
+		- elementG - summary			- summary of Creating your first HTML document
+		- elementH - interview questions	- knowledge check about Creating your first HTML document
+	- ElementA - concept4 	- Basic HTML structure
+		- elementB - Explanation of concept     - Basic HTML structure
+		- elementC - Example of concept		- Basic HTML structure
+		- elementD - Where it is used		- Applications of Basic HTML structure
+		- elementE - sample code		- code for Basic HTML structure
+		- elementF - image			- relevant images of Basic HTML structure
+		- elementG - summary			- summary of Basic HTML structure
+		- elementH - interview questions	- knowledge check about Basic HTML structure
+
+Lesson2	-   Text Formatting with HTML
+	- ElementA - concept1 	- Working with headings and paragraphs
+		- elementB - Explanation of concept     - Text Formatting with HTML
+		- elementC - Example of concept		- Text Formatting with HTML
+		- elementD - Where it is used		- Text Formatting with HTML
+		- elementE - sample code		- code Text Formatting with HTML
+		- elementF - image			- relevant images of Text Formatting with HTML
+		- elementG - summary			- summary of Text Formatting with HTML
+		- elementH - interview questions	- knowledge check about Text Formatting with HTML
+	- ElementA - concept2 - Applying text formatting tags (e.g., bold, italic, underline)
+		- elementB - Explanation of concept     - Applying text formatting tags (e.g., bold, italic, underline)
+		- elementC - Example of concept		- Applying text formatting tags (e.g., bold, italic, underline)
+		- elementD - Where it is used		- Applications of Applying text formatting tags (e.g., bold, italic, underline)
+		- elementE - sample code		- codes for Applying text formatting tags (e.g., bold, italic, underline)
+		- elementF - image			- relevant images of Applying text formatting tags (e.g., bold, italic, underline)
+		- elementG - summary			- summary of Applying text formatting tags (e.g., bold, italic, underline)
+		- elementH - interview questions	- knowledge check about Applying text formatting tags (e.g., bold, italic, underline)
+	- ElementA - concept3 	- Using line breaks and horizontal rules
+		- elementB - Explanation of concept     - Using line breaks and horizontal rules
+		- elementC - Example of concept		- Using line breaks and horizontal rules
+		- elementD - Where it is used		- Applications of Using line breaks and horizontal rules
+		- elementE - sample code		- code for Using line breaks and horizontal rules
+		- elementF - image			- relevant images of Using line breaks and horizontal rules
+		- elementG - summary			- summary of Using line breaks and horizontal rules
+		- elementH - interview questions	- knowledge check about Using line breaks and horizontal rules
+	- ElementA - concept4 	- Adding HTML comments
+		- elementB - Explanation of concept     - Adding HTML comments
+		- elementC - Example of concept		- Adding HTML comments
+		- elementD - Where it is used		- Applications of Adding HTML comments
+		- elementE - sample code		- code for Adding HTML comments
+		- elementF - image			- relevant images of Adding HTML comments
+		- elementG - summary			- summary of Adding HTML comments
+		- elementH - interview questions	- knowledge check about Adding HTML comments
+
+Lesson3	-   Working with Links
+	- ElementA - concept1 	- Creating hyperlinks
+		- elementB - Explanation of concept     - RESTful architecture
+		- elementC - Example of concept		- RESTful architecture
+		- elementD - Where it is used		- Applications of RESTful architecture
+		- elementE - sample code		- codes for RESTful architecture
+		- elementF - image			- relevant images of RESTful architecture
+		- elementG - summary			- summary of RESTful architecture
+		- elementH - interview questions	- knowledge check about RESTful architecture
+	- ElementA - concept2 -  Linking to other web pages
+		- elementB - Explanation of concept     - Linking to other web pages
+		- elementC - Example of concept		- Linking to other web pages
+		- elementD - Where it is used		- Applications of Linking to other web pages
+		- elementE - sample code		- codes for Linking to other web pages
+		- elementF - image			- relevant images of Linking to other web pages
+		- elementG - summary			- summary of Linking to other web pages
+		- elementH - interview questions	- knowledge check about Linking to other web pages
+	- ElementA - concept3 	- Linking to email addresses
+		- elementB - Explanation of concept     - Linking to email addresses
+		- elementC - Example of concept		- Linking to email addresses
+		- elementD - Where it is used		- Applications of Linking to email addresses
+		- elementE - sample code		- Code for Linking to email addresses
+		- elementF - image			- relevant images of Linking to email addresses
+		- elementG - summary			- summary of Linking to email addresses
+		- elementH - interview questions	- knowledge check about Linking to email addresses
+	- ElementA - concept4 	- Linking to various types of files and documents
+		- elementB - Explanation of concept     - Linking to various types of files and documents
+		- elementC - Example of concept		- Linking to various types of files and documents
+		- elementD - Where it is used		- Applications of Linking to various types of files and documents
+		- elementE - sample code		- code for Linking to various types of files and documents
+		- elementF - image			- relevant images of Linking to various types of files and documents
+		- elementG - summary			- summary of Linking to various types of files and documents
+		- elementH - interview questions	- knowledge check about Linking to various types of files and documents
+
+Lesson4	-  Lists and Tables
+	- ElementA - concept1 	-  Creating ordered and unordered lists
+		- elementB - Explanation of concept     - Creating ordered and unordered lists
+		- elementC - Example of concept		- Creating ordered and unordered lists
+		- elementD - Where it is used		- Applications of Creating ordered and unordered lists
+		- elementE - sample code		- codes for Creating ordered and unordered lists
+		- elementF - image			- relevant images of Creating ordered and unordered lists
+		- elementG - summary			- summary of Creating ordered and unordered lists
+		- elementH - interview questions	- knowledge check about the Creating ordered and unordered lists
+	- ElementA - concept2 - Nesting lists for hierarchy
+		- elementB - Explanation of concept     - Nesting lists for hierarchy
+		- elementC - Example of concept		- Nesting lists for hierarchy
+		- elementD - Where it is used		- Applications of Nesting lists for hierarchy
+		- elementE - sample code		- codes for Nesting lists for hierarchy
+		- elementF - image			- relevant images of Nesting lists for hierarchy
+		- elementG - summary			- summary of Nesting lists for hierarchy
+                - elementH - interview questions	- knowledge check about the Nesting lists for hierarchy
+	- ElementA - concept3 - Constructing tables and formatting them using attributes
+		- elementB - Explanation of concept     - Constructing tables and formatting them using attributes
+		- elementC - Example of concept		- Constructing tables and formatting them using attributes
+		- elementD - Where it is used		- Applications of Constructing tables and formatting them using attributes
+		- elementE - sample code		- codes for Constructing tables and formatting them using attributes
+		- elementF - image			- relevant images of Constructing tables and formatting them using attributes
+		- elementG - summary			- summary of Constructing tables and formatting them using attributes
+                - elementH - interview questions	- knowledge check about the Constructing tables and formatting them using attributes
+Lesson5	-  Forms and User Input
+	- ElementA - concept1 	- Designing and building forms
+		- elementB - Explanation of concept     - Designing and building forms
+		- elementC - Example of concept		- Designing and building forms
+		- elementD - Where it is used		- codes for Designing and building forms
+		- elementF - image			- relevant images of Designing and building forms
+		- elementG - summary			- summary of Designing and building forms
+		- elementH - interview questions	- knowledge check about Designing and building forms
+	- ElementA - concept2 - Implementing text input fields
+		- elementB - Explanation of concept     - Implementing text input fields
+		- elementC - Example of concept		- Implementing text input fields
+		- elementD - Where it is used		- Applications of Implementing text input fields
+		- elementE - sample code		- codes for Implementing text input fields
+		- elementF - image			- relevant images of Implementing text input fields
+		- elementG - summary			- summary of Implementing text input fields
+		- elementH - interview questions	- knowledge check about the Implementing text input fields
+	- ElementA - concept3 	- Utilizing radio buttons and checkboxes
+		- elementB - Explanation of concept     - Utilizing radio buttons and checkboxes
+		- elementC - Example of concept		- Utilizing radio buttons and checkboxes
+		- elementD - Where it is used		- Applications of Utilizing radio buttons and checkboxes
+		- elementE - sample code		- code for Utilizing radio buttons and checkboxes
+		- elementF - image			- relevant images of Utilizing radio buttons and checkboxes
+		- elementG - summary			- summary of Utilizing radio buttons and checkboxes
+		- elementH - interview questions	- knowledge check about Utilizing radio buttons and checkboxes
+	- ElementA - concept4 	- Creating dropdown menus and textareas
+		- elementB - Explanation of concept     - Creating dropdown menus and textareas
+		- elementC - Example of concept		- Creating dropdown menus and textareas
+		- elementD - Where it is used		- Applications of Creating dropdown menus and textareas
+		- elementE - sample code		- code for Creating dropdown menus and textareas
+		- elementF - image			- relevant images of Creating dropdown menus and textareas
+		- elementG - summary			- summary of Creating dropdown menus and textareas
+		- elementH - interview questions	- knowledge check about Creating dropdown menus and textareas
+	- ElementA - concept5 	- Handling form submission and processing
+		- elementB - Explanation of concept     - Handling form submission and processing
+		- elementC - Example of concept		- Handling form submission and processing
+		- elementD - Where it is used		- Applications of Handling form submission and processing
+		- elementE - sample code		- code for Handling form submission and processing
+		- elementF - image			- relevant images of Handling form submission and processing
+		- elementG - summary			- summary of Handling form submission and processing
+		- elementH - interview questions	- knowledge check about Handling form submission and processing
+
+
+Lesson6	-  Images and Multimedia
+	- ElementA -   Embedding images into web pages
+		- elementB - Explanation of concept     - Embedding images into web pages
+		- elementC - Example of concept		- Embedding images into web pages
+		- elementD - Where it is used		- Applications of Embedding images into web pages
+		- elementE - sample code		- codes for Embedding images into web pages
+		- elementF - image			- relevant images Embedding images into web pages
+		- elementG - summary			- summary of Embedding images into web pages
+		- elementH - interview questions	- knowledge check about Embedding images into web pages
+	- ElementA - concept2 - Managing image attributes and adhering to best practices
+		- elementB - Explanation of concept     - Managing image attributes and adhering to best practices
+		- elementC - Example of concept		- Managing image attributes and adhering to best practices
+		- elementD - Where it is used		- Applications of Managing image attributes and adhering to best practices
+		- elementE - sample code		- codes for Managing image attributes and adhering to best practices
+		- elementF - image			- relevant images of Managing image attributes and adhering to best practices
+		- elementG - summary			- summary of Managing image attributes and adhering to best practices
+		- elementH - interview questions	- knowledge check about Managing image attributes and adhering to best practices
+	- ElementA - concept3 	- Integrating audio and video content
+		- elementB - Explanation of concept     - Integrating audio and video content
+		- elementC - Example of concept		- Integrating audio and video content
+		- elementD - Where it is used		- Applications of Integrating audio and video content
+		- elementE - sample code		- code for Integrating audio and video content
+		- elementF - image			- relevant images of Integrating audio and video content
+		- elementG - summary			- summary of Integrating audio and video content
+		- elementH - interview questions	- knowledge check about Integrating audio and video content
+	- ElementA - concept4 	- Ensuring accessibility for multimedia elements
+		- elementB - Explanation of concept     - Ensuring accessibility for multimedia elements
+		- elementC - Example of concept		- Ensuring accessibility for multimedia elements
+		- elementD - Where it is used		- Applications of Ensuring accessibility for multimedia elements
+		- elementE - sample code		- code for Ensuring accessibility for multimedia elements
+		- elementF - image			- relevant images of Ensuring accessibility for multimedia elements
+		- elementG - summary			- summary of Ensuring accessibility for multimedia elements
+		- elementH - interview questions	- knowledge check about Ensuring accessibility for multimedia elements
+
+Lesson7	-   Semantic HTML
+	- ElementA - concept1 	- Understanding semantic HTML elements
+		- elementB - Explanation of concept     - Understanding semantic HTML elements
+		- elementC - Example of concept		- Understanding semantic HTML elements
+		- elementD - Where it is used		- Applications of Understanding semantic HTML elements
+		- elementE - sample code		- codes for Understanding semantic HTML elements
+		- elementF - image			- relevant images of Understanding semantic HTML elements
+		- elementG - summary			- summary of Understanding semantic HTML elements
+		- elementH - interview questions	- knowledge check about Understanding semantic HTML elements
+	- ElementA - concept2 -  Implementing header, nav, section, article, and footer tags
+		- elementB - Explanation of concept     - Implementing header, nav, section, article, and footer tags
+		- elementC - Example of concept		- Implementing header, nav, section, article, and footer tags
+		- elementD - Where it is used		- Applications of Implementing header, nav, section, article, and footer tags
+		- elementE - sample code		- codes for Implementing header, nav, section, article, and footer tags
+		- elementF - image			- relevant images of Implementing header, nav, section, article, and footer tags
+		- elementG - summary			- summary of Implementing header, nav, section, article, and footer tags
+		- elementH - interview questions	- knowledge check about Implementing header, nav, section, article, and footer tags
+	- ElementA - concept3 	- Enhancing accessibility and SEO through semantic markup
+		- elementB - Explanation of concept     - Enhancing accessibility and SEO through semantic markup
+		- elementC - Example of concept		- Enhancing accessibility and SEO through semantic markup
+		- elementD - Where it is used		- Applications of Enhancing accessibility and SEO through semantic markup
+		- elementE - sample code		- code for Enhancing accessibility and SEO through semantic markup
+		- elementF - image			- relevant images of Enhancing accessibility and SEO through semantic markup
+		- elementG - summary			- summary of Enhancing accessibility and SEO through semantic markup
+		- elementH - interview questions	- knowledge check about Enhancing accessibility and SEO through semantic markup
+
+Lesson8	-  HTML5 and Modern Features
+	- ElementA - concept1 	-  Introducing HTML5 features
+		- elementB - Explanation of concept     - Introducing HTML5 features
+		- elementC - Example of concept		- Introducing HTML5 features
+		- elementD - Where it is used		- Applications of Introducing HTML5 features
+		- elementE - sample code		- codes for Introducing HTML5 features
+		- elementF - image			- relevant images of Introducing HTML5 features
+		- elementG - summary			- summary of Introducing HTML5 features
+		- elementH - interview questions	- knowledge check about the Introducing HTML5 features
+	- ElementA - concept2 -  Exploring new HTML5 elements like canvas and video
+		- elementB - Explanation of concept     - Exploring new HTML5 elements like canvas and video
+		- elementC - Example of concept		- Exploring new HTML5 elements like canvas and video
+		- elementD - Where it is used		- Applications of Exploring new HTML5 elements like canvas and video
+		- elementE - sample code		- codes for Exploring new HTML5 elements like canvas and video
+		- elementF - image			- relevant images of Exploring new HTML5 elements like canvas and video
+		- elementG - summary			- summary of Exploring new HTML5 elements like canvas and video
+		- elementH - interview questions	- knowledge check about the Exploring new HTML5 elements like canvas and video
+	- ElementA - concept3 	- Utilizing geolocation and local storage for modern web applications
+		- elementB - Explanation of concept     - Utilizing geolocation and local storage for modern web applications
+		- elementC - Example of concept		- Utilizing geolocation and local storage for modern web applications
+		- elementD - Where it is used		- Applications of Utilizing geolocation and local storage for modern web applications
+		- elementE - sample code		- code for Utilizing geolocation and local storage for modern web applications
+		- elementF - image			- relevant images of Utilizing geolocation and local storage for modern web applications
+		- elementG - summary			- summary of Utilizing geolocation and local storage for modern web applications
+		- elementH - interview questions	- knowledge check about Utilizing geolocation and local storage for modern web applications
+
+Lesson9	-  HTML Forms and CSS
+	- ElementA - concept1 	- Styling forms with CSS
+		- elementB - Explanation of concept     - Styling forms with CSS
+		- elementC - Example of concept		- Styling forms with CSS
+		- elementD - Where it is used		- Applications of Styling forms with CSS
+		- elementE - sample code		- codes for Styling forms with CSS
+		- elementF - image			- relevant images of Styling forms with CSS
+		- elementG - summary			- summary of Styling forms with CSS
+		- elementH - interview questions	- knowledge check about Styling forms with CSS
+	- ElementA - concept2 - Creating responsive forms that adapt to various screen sizes
+		- elementB - Explanation of concept     - Creating responsive forms that adapt to various screen sizes
+		- elementC - Example of concept		- Creating responsive forms that adapt to various screen sizes
+		- elementD - Where it is used		- Applications of Creating responsive forms that adapt to various screen sizes
+		- elementE - sample code		- codes for Creating responsive forms that adapt to various screen sizes
+		- elementF - image			- relevant images of Creating responsive forms that adapt to various screen sizes
+		- elementG - summary			- summary of Creating responsive forms that adapt to various screen sizes
+		- elementH - interview questions	- knowledge check about Creating responsive forms that adapt to various screen sizes
+	- ElementA - concept3 - Learning CSS basics for enhancing HTML page styling
+		- elementB - Explanation of concept     - Learning CSS basics for enhancing HTML page styling
+		- elementC - Example of concept		- Learning CSS basics for enhancing HTML page styling
+		- elementD - Where it is used		- Applications of Learning CSS basics for enhancing HTML page styling
+		- elementE - sample code		- codes for Learning CSS basics for enhancing HTML page styling
+		- elementF - image			- relevant images of Learning CSS basics for enhancing HTML page styling
+		- elementG - summary			- summary of Learning CSS basics for enhancing HTML page styling
+		- elementH - interview questions	- knowledge check about Learning CSS basics for enhancing HTML page styling
+Lesson10-  Project and Wrap-Up
+	- ElementA - concept1 	- Building a simple web page as a practical project
+		- elementB - Explanation of concept     - Building a simple web page as a practical project
+		- elementC - Example of concept		- Building a simple web page as a practical project
+		- elementD - Where it is used		- Applications of Building a simple web page as a practical project
+		- elementE - sample code		- codes for Building a simple web page as a practical project
+		- elementF - image			- relevant images of Building a simple web page as a practical project
+		- elementG - summary			- summary of Building a simple web page as a practical project
+		- elementH - interview questions	- knowledge check about Building a simple web page as a practical project
+	- ElementA - concept2 - Integrating HTML and CSS for effective design
+		- elementB - Explanation of concept     - Integrating HTML and CSS for effective design
+		- elementC - Example of concept		- Integrating HTML and CSS for effective design
+		- elementD - Where it is used		- Applications of Integrating HTML and CSS for effective design
+		- elementE - sample code		- codes for Integrating HTML and CSS for effective design
+		- elementF - image			- relevant images of Integrating HTML and CSS for effective design
+		- elementG - summary			- summary of Integrating HTML and CSS for effective design
+		- elementH - interview questions	- knowledge check about Integrating HTML and CSS for effective design
+	- ElementA - concept3 	- Presenting the final project
+		- elementB - Explanation of concept     - Presenting the final project
+		- elementC - Example of concept		- Presenting the final project
+		- elementD - Where it is used		- Applications of Presenting the final project
+		- elementE - sample code		- code for Presenting the final project
+		- elementF - image			- relevant images of Presenting the final project
+		- elementG - summary			- summary of Presenting the final project
+		- elementH - interview questions	- knowledge check about Presenting the final project
+	- ElementA - concept3 	- Providing additional learning resources and tips
+		- elementB - Explanation of concept     - Providing additional learning resources and tips
+		- elementC - Example of concept		- Providing additional learning resources and tips
+		- elementD - Where it is used		- Applications of Providing additional learning resources and tips
+		- elementE - sample code		- code for Providing additional learning resources and tips
+		- elementF - image			- relevant images of Providing additional learning resources and tips
+		- elementG - summary			- summary of Providing additional learning resources and tips
+		- elementH - interview questions	- knowledge check about Providing additional learning resources and tips
+
