@@ -588,14 +588,7 @@ These topics empower you to engage users through interactive forms and efficient
     -   D) Creating checkboxes
  
     **Correct Answer: B** 🔘
-5.  Which form element is suitable for users to input paragraphs of text?  📝
     
-    -   A) <input>
-    -   B) <textarea>
-    -   C) <text>
-    -   D) <p>
-   
-     **Correct Answer: B** 📝
 6.  What scripting language is commonly used for server-side form processing?  🔄
     
     -   A) JavaScript
