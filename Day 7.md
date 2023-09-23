@@ -1,5 +1,5 @@
 
-# # **Semantic HTML 🧩**
+#  **Semantic HTML 🧩**
 
 ![Semantic HTML: What It Is and How to Use It Correctly](https://static.semrush.com/blog/uploads/media/f6/0f/f60f4ee50e919b9df55a1ec8187608ca/semantic-html5-guide.svg)
 ## **Objectives 🎯**
