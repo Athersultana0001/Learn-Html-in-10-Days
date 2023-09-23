@@ -588,7 +588,14 @@ These topics empower you to engage users through interactive forms and efficient
     -   D) Creating checkboxes
  
     **Correct Answer: B** 🔘
+5.  Which form element is suitable for users to input paragraphs of text?  📝
     
+     -   A) `<input>`
+     -   B) `<textarea>`
+    -   C) `<text>`
+    -   D) `<p>`
+   
+     **Correct Answer: B** 📝
 6.  What scripting language is commonly used for server-side form processing?  🔄
     
     -   A) JavaScript
@@ -607,10 +614,10 @@ These topics empower you to engage users through interactive forms and efficient
     **Correct Answer: A** 🖥️
 8.  Which type of form input is suitable for collecting users' email addresses?  📧
     
-    -   A) <email>
-    -   B) <text>
-    -   C) <input>
-    -   D) <email-input>
+    -   A) 	`<email>`	
+    -   B) 	`<text>`	
+    -   C) `input>`
+    -   D) `<email-input>`
    
      **Correct Answer: A** 📧
 9.  How can you create a multi-line text input area in HTML?  📝
@@ -639,18 +646,18 @@ These topics empower you to engage users through interactive forms and efficient
        **Correct Answer: B** ☑️
 12.  Which HTML element is used to create an option within a dropdown menu?  📝
     
-      -   A) <value>
-      -   B) <select>
-      -   C) <option>
-      -   D) <choice>
+      -   A) `<value>`
+      -   B) `<select>`
+      -   C) `<option>`
+      -   D) `<choice>`
     
       **Correct Answer: C** 📝
 13.  When designing a contact form, which form element is suitable for users to input their messages or comments?  📝
     
-      -   A) <input>
-      -   B) <text>
-      -   C) <textarea>
-      -   D) <comment>
+      -   A) `<input>`
+      -   B) `<text>`
+      -   C) `<textarea>`
+      -   D) `<comment>`
     
       **Correct Answer: C** 📝
 14.  Which attribute is commonly used to specify the action to be performed when a form is submitted?  🌐
@@ -663,10 +670,10 @@ These topics empower you to engage users through interactive forms and efficient
       **Correct Answer: A** 🌐
 15.  How do you create a single-line text input field for users to enter their names?  📥
     
-      -   A) <input type="single-line">
-      -   B) <input type="text">
-      -   C) <input type="name">
-      -   D) <input type="user">
+      -   A) `<input type="single-line">`
+      -   B) `<input type="text">`
+      -   C) `<input type="name">`
+      -   D) `<input type="user">`
    
       **Correct Answer: B** 📥
 16.  What is the primary role of the "name" attribute in form elements?  🔗
@@ -679,10 +686,10 @@ These topics empower you to engage users through interactive forms and efficient
      **Correct Answer: C** 🔗
 17.  Which HTML element is used to group related checkboxes together?  📋
     
-      -   A) <checklist>
-      -   B) <checkbox-group>
-      -   C) <group>
-      -   D) <fieldset>
+      -   A) `<checklist>`
+      -   B) `<checkbox-group>`
+      -   C) `<group>`
+      -   D) `<fieldset>`
    
      **Correct Answer: D** 📋
 18.  In client-side form validation, what is the typical outcome when validation fails?  🔄
@@ -695,10 +702,10 @@ These topics empower you to engage users through interactive forms and efficient
       **Correct Answer: B** 🔄
 19.  Which form input type is suitable for password entry, with the text obscured for security?  🔒
     
-      -   A) <text>
-      -   B) <password>
-      -   C) <secure>
-      -   D) <hidden>
+      -   A) `<text>`
+      -   B) `<password>`
+      -   C) `<secure>`
+      -   D) `<hidden>`
     
       **Correct Answer: B** 🔒
 20.  When should client-side form validation be used?  📝
@@ -719,18 +726,18 @@ These topics empower you to engage users through interactive forms and efficient
        **Correct Answer: A** ☑️
 22.  In HTML forms, which element is used for submitting the form to the server?  📤
     
-      -   A) <submit>
-      -   B) <button>
-      -   C) <form>
-      -   D) <input type="submit">
+      -   A) `<submit>`
+      -   B) `<button>`
+      -   C) `<form>`
+      -   D) `<input type="submit">`
     
       **Correct Answer: D** 📤
 23.  Which form input type is suitable for password entry, with the text obscured for security?  🔐
     
-      -   A) <text>
-      -   B) <password>
-     -   C) <secure>
-      -   D) <hidden>
+      -   A) `<text>`
+      -   B) `<password>`
+     -   C) `<secure>`
+      -   D) `<hidden>`
     
        **Correct Answer: B** 🔐
 24.  When should client-side form validation be used?  📊
