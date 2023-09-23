@@ -452,92 +452,92 @@ Day 3 equipped you with the skills to create effective hyperlinks, link to vario
        **Correct Answer**: c) Use descriptive link text 📝
 11.  What is the purpose of the `rel` attribute when linking to files (e.g., PDFs)? 🖋️
 
--   a) It sets the file type 
--   b) It specifies the file format 
--   c) It defines the link text 
--   d) It indicates how the linked file should be related 
+     -   a) It sets the file type 
+        -   b) It specifies the file format 
+     -   c) It defines the link text 
+     -   d) It indicates how the linked file should be related 
 
-   **Correct Answer**: d) It indicates how the linked file should be related 🌐
+     **Correct Answer**: d) It indicates how the linked file should be related 🌐
 
 12.  In HTML, what does the `download` attribute do when used in an anchor tag? 📥
 
--   a) Opens the link in a new tab 
--   b) Triggers a file download 
--   c) Redirects to the homepage 
--   d) Disables the link
+       -   a) Opens the link in a new tab 
+          -   b) Triggers a file download 
+       -   c) Redirects to the homepage 
+       -   d) Disables the link
 
-   **Correct Answer**: b) Triggers a file download 📥
+        **Correct Answer**: b) Triggers a file download 📥
  
 13.  How can you indicate the file type next to a download link for better user understanding? 🚀
 
--   a) Use the `<filetype>` tag 
--   b) Add an emoji 
--   c) Include file type in the link text 
--   d) Use the `type` attribute 
+       -   a) Use the `<filetype>` tag 
+       -   b) Add an emoji 
+       -   c) Include file type in the link text 
+       -   d) Use the `type` attribute 
 
-   **Correct Answer**: c) Include file type in the link text 📄
+     **Correct Answer**: c) Include file type in the link text 📄
 
 14.  Which value of the `target` attribute opens a link in a new browser tab or window? 🚀
 
--   a) `_self` 
--   b) `_blank` 
--   c) `_parent` 
--   d) `_top` 
+       -   a) `_self` 
+       -   b) `_blank` 
+       -   c) `_parent` 
+       -   d) `_top` 
 
-   **Correct Answer**: b) `_blank` 🚀
+     **Correct Answer**: b) `_blank` 🚀
 
 15.  When should you use a relative URL for linking to another web page within the same website? 🏠
 
--   a) When linking to external websites 
--   b) When linking to email addresses 
--   c) When linking within the same website 
--   d) When linking to downloadable files
+       -   a) When linking to external websites 
+       -   b) When linking to email addresses 
+       -   c) When linking within the same website 
+       -   d) When linking to downloadable files
 
-   **Correct Answer**: c) When linking within the same website 🏠
+     **Correct Answer**: c) When linking within the same website 🏠
 
 16.  What should you do to ensure that large file downloads are user-friendly? 📏
 
--   a) Provide no information 
--   b) Display file sizes in kilobytes only 
--   c) Show file size information next to download links 
--   d) Offer multiple download links for the same file 
+       -   a) Provide no information 
+       -   b) Display file sizes in kilobytes only 
+       -   c) Show file size information next to download links 
+       -   d) Offer multiple download links for the same file 
 
-   **Correct Answer**: c) Show file size information next to download links 📏
+     **Correct Answer**: c) Show file size information next to download links 📏
 
 17.  Which attribute should you use to specify that a file should be downloaded rather than displayed in the browser? 🌐
 
--   a) `view` 
--   b) `download` 
--   c) `display` 
--   d) `force-download` 
+       -   a) `view` 
+       -   b) `download` 
+       -   c) `display` 
+       -   d) `force-download` 
 
-  **Correct Answer**: b) `download` 📥
+     **Correct Answer**: b) `download` 📥
 
 18.  What is the purpose of the `href` attribute in an anchor tag? 📝
 
--   a) It defines the link text 
--   b) It specifies the link's destination URL 
--   c) It sets the link's color and font 
--   d) It controls link behavior 
+       -   a) It defines the link text 
+       -   b) It specifies the link's destination URL 
+       -   c) It sets the link's color and font 
+       -   d) It controls link behavior 
 
-   **Correct Answer**: b) It specifies the link's destination URL 🌐
+     **Correct Answer**: b) It specifies the link's destination URL 🌐
 
 19.  Which HTML tag is used to create a hyperlink? 🔗
 
--   a) `<link>` 
--   b) `<a>` 
--   c) `<anchor>` 
--   d) `<url>` 
+       -   a) `<link>` 
+       -   b) `<a>` 
+       -   c) `<anchor>` 
+       -   d) `<url>` 
 
-   **Correct Answer**: b) `<a>` 🌐
+     **Correct Answer**: b) `<a>` 🌐
 
 20.  What does a `mailto` link enable users to do? ✉️
-   -   a) Play videos 
-      -   b) Send emails 
-      -   c) Download files 
-      -   d) Open external websites 
+          -   a) Play videos 
+             -   b) Send emails 
+             -   c) Download files 
+             -   d) Open external websites 
     
-   **Correct Answer**: b) Send emails ✉️
+     **Correct Answer**: b) Send emails ✉️
 
 
 
