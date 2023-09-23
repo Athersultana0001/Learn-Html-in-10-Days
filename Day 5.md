@@ -566,10 +566,10 @@ These topics empower you to engage users through interactive forms and efficient
       **Correct Answer: B** 📝
 2.  Which HTML element is used to create a dropdown/select menu?  🔗
     
-    -   A) <input>
-    -   B) <select>
-    -   C) <option>
-    -   D) <dropdown>
+    -   A) `<input>`
+    -   B) `<select>`
+    -   C) `<option>`
+    -   D) `<dropdown>`
     
       **Correct Answer: B** 🔗
 3.  In HTML forms, which attribute is commonly used for setting a field as mandatory? ☑️
