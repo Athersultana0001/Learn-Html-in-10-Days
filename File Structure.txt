@@ -1,7 +1,7 @@
 LEARN HTML BOOT IN 10 DAYS
 
 Lesson1	-    Introduction to HTML
-	- ElementA - What is HTML
+	- ElementA -  concept1 - What is HTML
 		- elementB - Explanation of concept     - Introduction to HTML
 		- elementC - Example of concept		- HTML
 		- elementD - Where it is used		- Applications of HTML
@@ -21,7 +21,7 @@ Lesson1	-    Introduction to HTML
 		- elementB - Explanation of concept     - Creating your first HTML document
 		- elementC - Example of concept		- Creating your first HTML document
 		- elementD - Where it is used		- Applications of Creating your first HTML document
-		- elementE - sample code		- code for SCreating your first HTML document
+		- elementE - sample code		- code for Creating your first HTML document
 		- elementF - image			- na
 		- elementG - summary			- summary of Creating your first HTML document
 		- elementH - interview questions	- knowledge check about Creating your first HTML document
