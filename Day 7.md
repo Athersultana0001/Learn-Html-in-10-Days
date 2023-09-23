@@ -561,53 +561,53 @@ By structuring the content with semantic HTML elements and including relevant ke
 
 # Applications: 💼
 
-## 🧩 Understanding Semantic HTML Elements
+### 🧩 Understanding Semantic HTML Elements
 
-### 1. `<header>`:
+#### 1. `<header>`:
 
 -   **Application**: Use `<header>` to define the top section of a webpage, typically containing titles, logos, and navigation menus.
 -   **Example**: Place your website's name and primary navigation links within `<header>`.
 
-### 2. `<nav>`:
+#### 2. `<nav>`:
 
 -   **Application**: Wrap navigation menus and links within `<nav>` to define a section dedicated to navigation.
 -   **Example**: Create a clear and accessible menu structure using `<nav>`.
 
-### 3. `<section>`:
+#### 3. `<section>`:
 
 -   **Application**: Use `<section>` to define distinct content sections within a webpage.
 -   **Example**: Separate your webpage into sections like "About Us" and "Services" for better content organization.
 
-### 4. `<article>`:
+#### 4. `<article>`:
 
 -   **Application**: Encapsulate self-contained pieces of content, such as blog posts or articles, within `<article>` elements.
 -   **Example**: Use `<article>` to structure individual blog posts on a blog page.
 
-### 5. `<footer>`:
+#### 5. `<footer>`:
 
 -   **Application**: Define a footer section at the end of a webpage, typically containing copyright information and contact details.
 -   **Example**: Place copyright notices and contact information within `<footer>`.
 
-## 🔍 Enhancing Accessibility and SEO
+### 🔍 Enhancing Accessibility and SEO
 
-### 1. Semantic Elements for Accessibility:
+#### 1. Semantic Elements for Accessibility:
 
 -   **Application**: Apply semantic elements to improve web accessibility by providing clear content structure.
 -   **Example**: Use headings, `<nav>`, and `<article>` to create accessible and organized content.
 
-### 2. Semantic Elements for SEO:
+#### 2. Semantic Elements for SEO:
 
 -   **Application**: Utilize semantic HTML elements to enhance SEO by providing meaningful content structure and keywords.
 -   **Example**: Use `<header>` for page titles and headings for content hierarchy to improve keyword relevance.
 
-## 🚀 Implementing Semantic Elements
+### 🚀 Implementing Semantic Elements
 
-### 1. Enhancing Content Structure:
+#### 1. Enhancing Content Structure:
 
 -   **Application**: Use semantic elements to create a well-structured webpage with clear sections.
 -   **Example**: Divide your webpage into sections like "Introduction," "Features," and "Contact Information" using `<section>`.
 
-### 2. Clear Footer Definition:
+#### 2. Clear Footer Definition:
 
 -   **Application**: Employ `<footer>` to define a footer section for important information.
 -   **Example**: Place copyright statements, contact details, and related links within the `<footer>`.
